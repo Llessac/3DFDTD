@@ -1,3 +1,0 @@
-D:\QT\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\FDTD3D.dir/objects.a
-D:\QT\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\FDTD3D.dir/objects.a @CMakeFiles\FDTD3D.dir\objects1.rsp
-D:\QT\Tools\mingw1120_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\FDTD3D.dir/objects.a -Wl,--no-whole-archive -o FDTD3D.exe -Wl,--out-implib,libFDTD3D.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FDTD3D.dir\linklibs.rsp
